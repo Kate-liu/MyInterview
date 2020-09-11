@@ -8,7 +8,7 @@ This is my interview Record.
 
 ## Interview scene
 
-- [Interview scene](Interview scene.xmind)
+[Interview scene](Interview scene.xmind)
 
 
 
@@ -20,7 +20,7 @@ This is my interview Record.
 
 ## Back-end technical interview
 
-- [Back-end technical interview](Back-end technical interview.xmind)
+[Back-end technical interview](Back-end technical interview.xmind)
 
 
 
@@ -32,7 +32,7 @@ This is my interview Record.
 
 ## Career survival tips
 
-- [Career survival tips](Career survival tips.xmind)
+[Career survival tips](Career survival tips.xmind)
 
 
 
